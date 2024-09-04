@@ -1,0 +1,3 @@
+Attrition Rate = SUM(HR_Analytics[AttritionCount])/Sum(HR_Analytics[EmployeeCount])
+
+
